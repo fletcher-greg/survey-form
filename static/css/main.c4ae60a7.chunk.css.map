@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,0BACE,WACE,UACF,CACF","file":"main.c4ae60a7.chunk.css","sourcesContent":["@media (max-width: 1000px) {\n  .container {\n    margin: 4em;\n  }\n}\n"]}
